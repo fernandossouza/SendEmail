@@ -1,0 +1,20 @@
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsCommonsPackage\bin\Debug\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsCommonsPackage\bin\Debug\SendMailsCommonsPackage.pdb
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsCommonsPackage\bin\Debug\log4net.dll
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsCommonsPackage\bin\Debug\log4net.xml
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Debug\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Debug\SendMailsCommonsPackage.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Debug\log4net.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Debug\log4net.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.csprojResolveAssemblyReference.cache
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Debug\SendMailsCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Debug\SendMailsCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Debug\log4net.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Debug\log4net.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.csprojResolveAssemblyReference.cache
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\obj\Debug\SendMailsCommonsPackage.pdb

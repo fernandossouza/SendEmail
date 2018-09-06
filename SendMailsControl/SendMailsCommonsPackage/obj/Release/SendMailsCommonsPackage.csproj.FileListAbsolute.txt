@@ -1,0 +1,14 @@
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Release\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Release\SendMailsCommonsPackage.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Release\log4net.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\bin\Release\log4net.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\obj\Release\SendMailsCommonsPackage.csprojResolveAssemblyReference.cache
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\obj\Release\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsCommonsPackage\obj\Release\SendMailsCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Release\SendMailsCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Release\SendMailsCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Release\log4net.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\bin\Release\log4net.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\obj\Release\SendMailsCommonsPackage.csprojResolveAssemblyReference.cache
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\obj\Release\SendMailsCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsCommonsPackage\obj\Release\SendMailsCommonsPackage.pdb

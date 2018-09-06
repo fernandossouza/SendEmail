@@ -1,0 +1,390 @@
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\csc.exe
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\System.Collections.Immutable.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\vbc.exe
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe.config
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll.config
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\SendMailsControl.pdb
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\EntityFramework.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\log4net.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Web.Infrastructure.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Newtonsoft.Json.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Owin.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Cors.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Razor.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\WebGrease.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\log4net.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Newtonsoft.Json.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Razor.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.pdb
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\EntityFramework.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.xml
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.csprojResolveAssemblyReference.cache
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.dll
+c:\users\thaisl\documents\visual studio 2015\Projects\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.pdb
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Visual Studio 2015\Projects\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\csc.exe
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\vbc.exe
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll.config
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\SendMailsControl.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\DisplayControlFilter.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\EntityFramework.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\log4net.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Newtonsoft.Json.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Owin.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Cors.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Razor.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\WebGrease.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\DisplayCommonsPackage.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\DisplayControlFilter.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\log4net.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Newtonsoft.Json.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Razor.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\EntityFramework.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.xml
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\bin\DisplayCommonsPackage.pdb
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.csprojResolveAssemblyReference.cache
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.dll
+C:\Users\thaisl\Documents\Cummins\Backend\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\csc.exe
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\vbc.exe
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll.config
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\SendMailsControl.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\EntityFramework.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\log4net.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Cors.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Razor.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\WebGrease.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\DisplayCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\DisplayControlFilter.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\log4net.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Razor.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\EntityFramework.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\bin\DisplayCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.csprojResolveAssemblyReference.cache
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\subir GIT\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\csc.exe
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\vbc.exe
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll.config
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\SendMailsControl.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\SendMailsControl.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\EntityFramework.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\log4net.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Cors.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Razor.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\WebGrease.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\DisplayCommonsPackage.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\SendMailsCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\DisplayControlFilter.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\log4net.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.Web.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.Cors.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Net.Http.Formatting.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Helpers.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.WebHost.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Mvc.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Optimization.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Razor.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.WebPages.Razor.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Antlr3.Runtime.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\EntityFramework.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\EntityFramework.SqlServer.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\System.Web.Http.Owin.xml
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\bin\DisplayCommonsPackage.pdb
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.csprojResolveAssemblyReference.cache
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.dll
+C:\Users\fernandos\Documents\Projetos\SaintGobain\APIs\SendMailsControl\SendMailsControl\obj\Debug\SendMailsControl.pdb
